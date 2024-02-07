@@ -11,9 +11,9 @@ We are funded by Mathematics Area of SISSA, European Research Council, European 
   - Biomechanics
 
 - 📫 Useful links:
-  - [lab website](https://mathlab.sissa.it/)
-  - [cse software](https://mathlab.sissa.it/cse-software)
-  - [people](https://mathlab.sissa.it/people)
+  - [Website](https://mathlab.sissa.it/)
+  - [Software list](https://mathlab.sissa.it/cse-software)
+  - [People](https://mathlab.sissa.it/people)
 
 - 📦 Frameworks used:
   - [OpenFoam](OpenFoam)
@@ -23,3 +23,14 @@ We are funded by Mathematics Area of SISSA, European Research Council, European 
   - [Fenics/Fenicsx](https://fenicsproject.org/)
   - [Scikit-Learn](https://scikit-learn.org)
 
+--------
+
+### Former _mathLabers_
+- Francesco Ballarin [@francesco-ballarin](https://github.com/francesco-ballarin)
+- Alberto Sartori [@asartori86](https://github.com/asartori86)
+- Martin Hess [@martin-hess](https://github.com/martin-hess)
+- Matteo Zancanaro [@MatteoZancanaro](https://github.com/MatteoZancanaro)
+- Andrea Mola [@andreamola](https://github.com/andreamola)
+- Nicola Giuliani [@nicola-giuliani](https://github.com/nicola-giuliani)
+- Stafano Piani [@spiani](https://github.com/spiani)
+- Umberto Morelli [@umbertoEmil](https://github.com/umbertoEmil)
