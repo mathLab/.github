@@ -32,5 +32,5 @@ We are funded by Mathematics Area of SISSA, European Research Council, European 
 - Matteo Zancanaro [@MatteoZancanaro](https://github.com/MatteoZancanaro)
 - Andrea Mola [@andreamola](https://github.com/andreamola)
 - Nicola Giuliani [@nicola-giuliani](https://github.com/nicola-giuliani)
-- Stafano Piani [@spiani](https://github.com/spiani)
+- Stefano Piani [@spiani](https://github.com/spiani)
 - Umberto Morelli [@umbertoEmil](https://github.com/umbertoEmil)
